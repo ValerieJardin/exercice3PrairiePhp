@@ -6,11 +6,11 @@
     {
             if ($nombresImpairs%2 == 1)
           {
-            echo ".";
+            echo "<p>$nombresImpairs</p>";
           }
             else
           {
-            echo "<p>$nombresImpairs</p>";
+            echo ".";
           }
     }
 
